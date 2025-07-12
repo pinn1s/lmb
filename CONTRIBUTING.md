@@ -1,11 +1,11 @@
 # Contributing to LMB
 
-Thank you for your interest in contributing to LMB. Whether you've found a bug, want to improve the codebase, or have an idea for a new feature, this guide outlines how to get involved.
+Thank you for being so interested in contributing to LMB. Whether you've found a bug, want to improve the codebase, or have an idea for a new feature, this guide outlines how to get involved.
 
 
 ## Found a bug?
 
-If the bug is a security vulnerability, do not open a public issue. Please report it privately according to our security policy.
+If the bug is a security vulnerability, do not open a public issue. Please report it privately, under our security policy.
 
 Before opening an issue, please check the existing issues to make sure it has not already been reported.
 
@@ -22,7 +22,7 @@ Ensure your pull request includes:
 
 * A description of the problem
 * An explanation of the solution
-* A reference to the related issue if applicable
+* A reference to the related issue, if applicable
 
 Please follow the project's code style and verify that your changes pass all tests before submitting.
 
@@ -45,7 +45,7 @@ If you are unsure how something works or want guidance on contributing, feel fre
 
 ## Wanted to contribute to the documentation?
 
-Contributions to documentation are welcome. Clear, accurate documentation helps users and contributors alike.
+Documentation contributions are welcome. Clear, accurate documentation helps users and contributors alike.
 
 ---
 
